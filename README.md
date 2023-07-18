@@ -18,4 +18,23 @@ This contract represents a ERC-20 token called `DegenGamingToken` having the sym
  
  5- `checkBalance`: This function allows users to check number of tokens for a particular address.
 
+
+## Program Execution
+1- Create a ".sol" file(Rishi_Module4.sol) on Remix IDE.
+
+2- Now update the Rishi_Module4.sol file with code snippet i.e. Import the OpenZeppelin ERC20 contract and initialize the token, inheriting from the ERC20.sol contract.
+
+3- Select a Ethereum testnet (e.g., Fuji) in MetaMask.
+
+4- Now after writing your code deploy the code.
+
+5- Go to "Deploy and run transaction" and select environment as "Injected Provider - MetaMask".
+
+6- After deploying the contract, copy the contract address and go to "Snowtrace" and paste it here by checking the "Avalanche Fuji testnet".
+
+7- Now you can track your contract details on snowtrace.
+
+## License
+This project is licensed under the MIT License. //SPDX-License-Identifier: MIT.
+
  
